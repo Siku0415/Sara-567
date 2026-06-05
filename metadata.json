@@ -1,0 +1,6 @@
+{
+  "name": "Sara 567",
+  "description": "Premium landing page clone of Sara 567, featuring game rates, interactive betting calculator, and live market timings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
