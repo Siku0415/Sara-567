@@ -4,6 +4,15 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>My Google AI Studio App</title>
+    <!-- Error shield for cross-origin tracking pixels and blocked network assets -->
+    <script>
+      window.onerror = function (message, url, line, col, error) {
+        if (message === 'Script error.' || !url || url.indexOf(window.location.host) === -1) {
+          return true; // Suppress cross-origin tracker scripts error propagation
+        }
+        return false;
+      };
+    </script>
     <!-- Meta Pixel Code -->
     <script>
     !function(f,b,e,v,n,t,s)
