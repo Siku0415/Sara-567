@@ -115,7 +115,7 @@ export default function Navbar({ currentLang, onLangChange, onScrollTo }: Navbar
 
             {/* Elegant Download button customized Red */}
             <a
-              href="https://sara567.info/Sara%20567.apk"
+              href="https://sara567.info/Sara567.apk"
               download
               referrerPolicy="no-referrer"
               className="ml-3 flex items-center space-x-1.5 bg-gradient-to-r from-red-600 to-red-700 hover:from-red-500 hover:to-red-600 text-white font-bold px-4 py-2 rounded-xl text-xs uppercase tracking-wide transition-all shadow-[0_4px_12px_rgba(220,38,38,0.2)] hover:shadow-[0_4px_18px_rgba(220,38,38,0.35)] hover:scale-[1.02] cursor-pointer"
@@ -173,7 +173,7 @@ export default function Navbar({ currentLang, onLangChange, onScrollTo }: Navbar
           ))}
           <div className="pt-4">
             <a
-              href="https://sara567.info/Sara%20567.apk"
+              href="https://sara567.info/Sara567.apk"
               download
               referrerPolicy="no-referrer"
               className="flex justify-center items-center space-x-2 bg-gradient-to-r from-red-600 to-red-700 hover:from-red-500 hover:to-red-600 text-white font-bold py-4 rounded-xl shadow-lg text-sm tracking-wide"

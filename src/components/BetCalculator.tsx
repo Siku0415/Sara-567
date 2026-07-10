@@ -262,7 +262,7 @@ export default function BetCalculator({ currentLang }: BetCalculatorProps) {
 
               {/* Calculator Call-to-action */}
               <a
-                href="https://sara567.info/Sara%20567.apk"
+                href="https://sara567.info/Sara567.apk"
                 download
                 referrerPolicy="no-referrer"
                 className="w-full flex items-center justify-center space-x-2 bg-gradient-to-r from-red-650 to-red-750 hover:from-red-550 hover:to-red-650 text-white font-bold py-4.5 rounded-2xl text-sm transition-all shadow-[0_4px_12px_rgba(220,38,38,0.2)] focus:outline-none cursor-pointer"

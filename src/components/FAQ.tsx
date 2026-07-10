@@ -314,7 +314,7 @@ export default function FAQ({ currentLang }: FAQProps) {
             {/* Call to action panel centered */}
             <div className="pt-6 text-center border-t border-neutral-800 flex flex-col items-center">
               <a
-                href="https://sara567.info/Sara%20567.apk"
+                href="https://sara567.info/Sara567.apk"
                 download
                 referrerPolicy="no-referrer"
                 className="inline-flex items-center space-x-3 bg-gradient-to-r from-red-600 via-red-700 to-rose-600 hover:from-red-500 hover:to-red-650 text-white font-black px-12 py-5 rounded-2xl text-base transition-all shadow-[0_10px_35px_rgba(220,38,38,0.35)] hover:scale-[1.04]"

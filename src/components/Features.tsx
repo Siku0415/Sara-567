@@ -122,7 +122,7 @@ export default function Features({ currentLang }: FeaturesProps) {
                 <span className="text-[10px] font-bold font-mono text-neutral-400">VERSION 1.4.2 (ANDROID ONLY)</span>
               </div>
               <a
-                href="https://sara567.info/Sara%20567.apk"
+                href="https://sara567.info/Sara567.apk"
                 download
                 referrerPolicy="no-referrer"
                 className="w-full text-center bg-gradient-to-r from-red-650 to-red-750 hover:from-red-550 hover:to-red-650 text-white font-bold py-3.5 rounded-xl text-xs uppercase tracking-wider transition-all shadow-xs cursor-pointer"

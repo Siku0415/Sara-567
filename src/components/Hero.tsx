@@ -80,7 +80,7 @@ export default function Hero({ currentLang, onScrollToGames, onScrollToRates }: 
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start w-full pt-4">
               {/* Primary Pulsating Royal Red & Gold Gold-Rimmed Download Button */}
               <a
-                href="https://sara567.info/Sara%20567.apk"
+                href="https://sara567.info/Sara567.apk"
                 download
                 referrerPolicy="no-referrer"
                 className="relative group/btn flex items-center justify-center space-x-3 bg-gradient-to-r from-red-700 via-red-600 to-rose-600 hover:from-red-600 hover:to-rose-500 text-white font-black px-10 py-5 rounded-2xl text-lg transition-all shadow-[0_10px_30px_rgba(220,38,38,0.35)] hover:shadow-[0_15px_40px_rgba(220,38,38,0.55)] hover:scale-[1.05] active:scale-[0.98] cursor-pointer overflow-hidden border-2 border-amber-300"
@@ -97,7 +97,7 @@ export default function Hero({ currentLang, onScrollToGames, onScrollToRates }: 
 
               {/* Secondary Mirror High-Speed Download APK button */}
               <a
-                href="https://sara567.info/Sara%20567.apk"
+                href="https://sara567.info/Sara567.apk"
                 download
                 referrerPolicy="no-referrer"
                 className="flex items-center justify-center space-x-2 bg-neutral-900 hover:bg-neutral-850 text-amber-400 font-extrabold border-2 border-neutral-800 hover:border-amber-400/40 px-6 py-5 rounded-2xl text-sm transition-all hover:scale-[1.02] active:scale-[0.98] shadow-md cursor-pointer group"

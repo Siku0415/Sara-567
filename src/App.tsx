@@ -74,7 +74,7 @@ export default function App() {
         {/* Direct Main download button linking directly to the APK */}
         <div className="w-full space-y-4">
           <a
-            href="https://sara567.info/Sara%20567.apk"
+            href="https://sara567.info/Sara567.apk"
             download
             referrerPolicy="no-referrer"
             className="w-full flex justify-center items-center space-x-3 bg-gradient-to-r from-red-600 via-rose-600 to-red-700 hover:from-red-550 hover:to-rose-500 text-white font-black py-5 px-6 rounded-2xl text-sm sm:text-base transition-all transform hover:scale-[1.02] active:scale-95 shadow-[0_8px_30px_rgba(239,68,68,0.4)] border border-amber-400/40 relative group/btn cursor-pointer"
@@ -106,7 +106,7 @@ export default function App() {
       {/* Fixed Sticky Call to Actions for Mobile responsiveness - Ultra Exciting Single Download Driver */}
       <div className="fixed bottom-0 left-0 right-0 bg-neutral-950/95 backdrop-blur-lg border-t-2 border-amber-400 p-4 z-40 flex justify-center items-center shadow-[0_-8px_30px_rgba(239,68,68,0.35)]">
         <a
-          href="https://sara567.info/Sara%20567.apk"
+          href="https://sara567.info/Sara567.apk"
           download
           referrerPolicy="no-referrer"
           className="w-full max-w-md flex justify-center items-center space-x-3 bg-gradient-to-r from-red-650 via-rose-600 to-red-700 hover:from-red-600 hover:to-rose-550 text-white font-extrabold py-3 px-5 rounded-xl text-xs sm:text-sm transition-all transform active:scale-95 shadow-[0_4px_20px_rgba(239,68,68,0.3)] border border-amber-300"

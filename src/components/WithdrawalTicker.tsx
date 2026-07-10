@@ -133,7 +133,7 @@ export default function WithdrawalTicker({ currentLang }: WithdrawalTickerProps)
             {/* Quick interactive download prompt inside notification */}
             <div className="pt-2">
               <a
-                href="https://sara567.info/Sara%20567.apk"
+                href="https://sara567.info/Sara567.apk"
                 download
                 referrerPolicy="no-referrer"
                 className="inline-flex items-center space-x-1 text-[10px] font-black font-display text-amber-300 uppercase tracking-wider group-hover:text-amber-200"

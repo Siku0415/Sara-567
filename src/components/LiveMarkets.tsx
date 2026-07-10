@@ -233,7 +233,7 @@ export default function LiveMarkets({ currentLang }: LiveMarketsProps) {
                   </div>
                   
                   <a
-                    href="https://sara567.info/Sara%20567.apk"
+                    href="https://sara567.info/Sara567.apk"
                     download
                     referrerPolicy="no-referrer"
                     className={`flex items-center space-x-1.5 px-4 py-2 rounded-xl text-xs font-bold transition-all ${
